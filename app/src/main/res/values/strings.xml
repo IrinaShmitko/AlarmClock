@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Будильник</string>
+    <string-array name="ringtones">
+        <item>Clock alarm Packman</item>
+        <item>Clock alert HTC One</item>
+        <item>Clock alert new IP6</item>
+        <item>Nature rhythm</item>
+        <item>Super nature</item>
+    </string-array>
+</resources>
